@@ -26,7 +26,6 @@
     "ng2-bs3-modal": "^0.12.1",
     "rxjs": "^5.4.2",
     "zone.js": "^0.8.14",
-
     "@angular/cli": "1.4.4",
     "@angular/compiler-cli": "^4.2.4",
     "@angular/language-service": "^4.2.4",
